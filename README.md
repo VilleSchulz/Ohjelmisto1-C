@@ -11,4 +11,8 @@
  Jos me luodaan opastetusti remote repo projetkia varten, niin käytetään 
  ihmeessä sitä siinä tapauksessa.
 
+22.9.2023
+Lisäilen tähän linkit/ohjeet vielä gitin/githubin peruskäytöstä sitten
+joskus myöhemmin
+
 Matias
