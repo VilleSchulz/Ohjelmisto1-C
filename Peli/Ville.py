@@ -1,0 +1,1 @@
+print("Varastit mummon rahat!")
