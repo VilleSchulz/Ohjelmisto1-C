@@ -1,18 +1,6 @@
 # Ohjelmisto1-C
- Loin remote repon meille, voidaan käyttää tätä tai jotain toista.
- Broidilta kuulin, että yleinen käytäntö softandevauksessa on, että on
- vähintään 2 branchia, nimetty esim devel ja main. Kaikki pushit tapahtuu
- develiin, josta sitten aina silloin tällöin mergetään mainiin. Main on ns.
- julkaisuvalmista koodia johon ei tarvitsisi koskea hotfixejä lukuunottamatta.
-
- Voidaan katsoa sitä gitin käyttöä koululla, jollei meille opeteta sitä enempää
- tunneilla.
-
- Jos me luodaan opastetusti remote repo projetkia varten, niin käytetään 
- ihmeessä sitä siinä tapauksessa.
-
-22.9.2023
-Lisäilen tähän linkit/ohjeet vielä gitin/githubin peruskäytöstä sitten
-joskus myöhemmin
-
+Putsailin vähän tätä hakemistoa.
+Mä pyrin tallentamaan kaikki tiedostot, mitä tämän projektin aikana syntyy, omaan repositoryyni ja pushaamaan Githubiin.
+Kun saadaan tietokannan alustusscriptit kuntoon, niin pushaan ne tänne, mergeen koko paskan ja forkataan siitä sitten hyvät pohjat koodauksen aloitukseen
+ 
 Matias
